@@ -160,3 +160,17 @@
 [官网 toukenai.com](https://www.toukenai.com/) · [知识库 toukenai.cn](https://www.toukenai.cn/)
 
 </div>
+
+
+## 投肯智能开源矩阵
+
+> 重庆投肯智能科技有限公司 · 开源项目导航
+
+| 仓库 | 说明 |
+|------|------|
+| **[TouKenAI](https://github.com/TouKenAI/TouKenAI)** | 门面 / 公司形象展示页（Profile README）（本仓库） |
+| [ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | 双色球标准5步分析 + 优化引擎 |
+| [daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | 大乐透标准5步分析 + 优化引擎 |
+| [philosophy-methodology](https://github.com/TouKenAI/philosophy-methodology) | 哲学方法论体系（4层 + 实验记录） |
+| [ai-behavior-constraints](https://github.com/TouKenAI/ai-behavior-constraints) | AI 行为约束体系（7条硬约束） |
+| [tech-whitepaper](https://github.com/TouKenAI/tech-whitepaper) | 投肯智能技术白皮书（FDE / 信创 / AI落地） |
