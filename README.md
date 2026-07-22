@@ -11,6 +11,7 @@
 [![交付率](https://img.shields.io/badge/项目交付率-100%25-orange)](https://www.toukenai.com/)
 [![原创](https://img.shields.io/badge/知识库-144篇原创技术文-9cf)](https://www.toukenai.cn/)
 [![咨询](https://img.shields.io/badge/免费技术咨询-24h内回复-blueviolet)](mailto:toukenai@163.com)
+[![社媒](https://img.shields.io/badge/全平台-投肯AI小刚-ff2d55)](https://www.toukenai.com/)
 
 **传统 IT 服务 · 信创服务 · AI 落地服务 —— 三种能力，一站解决**
 
@@ -137,6 +138,18 @@
 - 📧 **邮箱**：[toukenai@163.com](mailto:toukenai@163.com)
 - 💬 **微信**：`toukenai`（扫码即时沟通）
 - 📍 **公司地址**：重庆市两江新区华新街街道嘉陵一村 41 号 2 幢 4 层 299（欢迎预约面谈）
+
+### 📱 关注「投肯AI小刚」
+
+分享 AI 落地实战、信创国产化、企业 IT 干货 —— 全平台同名，搜索即可关注：
+
+| 平台 | 账号 |
+|------|------|
+| 🎵 抖音 | 投肯AI小刚 |
+| 📰 今日头条 | 投肯AI小刚 |
+| 💬 知乎 | 投肯AI小刚 |
+| 📺 微信视频号 | 投肯AI小刚 |
+| 📗 微信公众号 | 投肯AI小刚 |
 
 ---
 
