@@ -12,6 +12,7 @@
 [![原创](https://img.shields.io/badge/知识库-144篇原创技术文-9cf)](https://www.toukenai.cn/)
 [![咨询](https://img.shields.io/badge/免费技术咨询-24h内回复-blueviolet)](mailto:toukenai@163.com)
 [![社媒](https://img.shields.io/badge/全平台-投肯AI小刚-ff2d55)](https://www.toukenai.com/)
+[![开源](https://img.shields.io/badge/GitHub-18个公开仓库-1f883d)](https://github.com/TouKenAI)
 
 **传统 IT 服务 · 信创服务 · AI 落地服务 —— 三种能力，一站解决**
 
@@ -120,14 +121,52 @@
 
 ---
 
-## 📦 开源项目
+## 📦 开源矩阵（Open Source Portfolio）
 
-| 仓库 | 说明 |
-|------|------|
-| [TouKenAI/ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | 双色球数据分析与选号参考（频率统计 + 冷热 + 过滤规则 + 蒙特卡洛验证） |
-| [TouKenAI/daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | 大乐透数据分析与选号参考（三区校验 + 后区规则 + 最大覆盖优化） |
+> 投肯智能在 GitHub 上的全部仓库 —— **自研方法论 + 前沿 AI 项目 fork 研究**，覆盖「企业 AI 落地 / 信创 / 多智能体 / AI 运维 / 内容生成」全链条。
+> 🔒 fork 项目均基于 MIT / Apache-2.0 / GPL-3.0 等开源许可证**合规引用**，仅用于技术研究与企业落地参考。
+
+### 🧠 自研 · 方法论与工具
+| 仓库 | 许可证 | 说明 |
+|------|--------|------|
+| [TouKenAI/TouKenAI](https://github.com/TouKenAI/TouKenAI) | — | 门面 / 公司形象展示页（Profile README，本仓库） |
+| [ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | MIT | 双色球标准5步分析 + 优化引擎（含 CI / 定时回写） |
+| [daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | MIT | 大乐透标准5步分析 + 优化引擎（含 CI / 定时回写） |
+| [philosophy-methodology](https://github.com/TouKenAI/philosophy-methodology) | — | 哲学方法论体系（4 层 + 实验记录） |
+| [ai-behavior-constraints](https://github.com/TouKenAI/ai-behavior-constraints) | — | AI 行为约束体系（7 条硬约束 + 依据 + 反例） |
+| [tech-whitepaper](https://github.com/TouKenAI/tech-whitepaper) | — | 投肯智能技术白皮书（FDE / 信创 / AI 落地技术栈） |
+
+### 🤖 AI Agent / 多智能体（前沿 fork 研究）
+| 仓库 | 许可证 | 说明 |
+|------|--------|------|
+| [ruoyi-ai](https://github.com/TouKenAI/ruoyi-ai) | MIT | 企业级 AI 平台：RAG + 多智能体 + 流程编排 + MCP + Skills |
+| [MetaGPT](https://github.com/TouKenAI/MetaGPT) | MIT | 多智能体「AI 软件公司」范本（自然语言编程） |
+| [PentestGPT](https://github.com/TouKenAI/PentestGPT) | MIT | AI 自动化渗透测试 Agent（USENIX 2024，86.5% benchmark） |
+| [keelead](https://github.com/TouKenAI/keelead) | MIT | AI 获客引擎（62 数据源 + MCP Server） |
+| [DeepVoucher](https://github.com/TouKenAI/DeepVoucher) | MIT | 多模态智能财务中枢（凭证 → 审计全流程自动化） |
+
+### 💻 AI 终端 / 智能运维（fork 研究）
+| 仓库 | 许可证 | 说明 |
+|------|--------|------|
+| [ai-cmd](https://github.com/TouKenAI/ai-cmd) | MIT | AI-powered Web SSH 终端（自主 Agent + 技能 + 文件传输） |
+| [uniterm](https://github.com/TouKenAI/uniterm) | Apache-2.0 | 轻量全能终端（20+ 协议 + 自主 AI Agent） |
+| [Chaterm](https://github.com/TouKenAI/Chaterm) | GPL-3.0 | 开源 AI 终端，自然语言管理云与基础设施 |
+| [intelligent-terminal](https://github.com/TouKenAI/intelligent-terminal) | MIT | Windows Terminal fork，原生集成 Agent |
+
+### 🎬 内容生成 / 教学（fork 研究）
+| 仓库 | 许可证 | 说明 |
+|------|--------|------|
+| [html-video](https://github.com/TouKenAI/html-video) | Apache-2.0 | 编程式视频生成（HTML → MP4，21 模板 + AI 配乐） |
+| [OpenMAIC](https://github.com/TouKenAI/OpenMAIC) | MIT | 开源多智能体互动课堂（一键沉浸式学习） |
+| [dive-into-llms](https://github.com/TouKenAI/dive-into-llms) | — | 《动手学大模型》系列编程实践教程（fork） |
 
 > ⚠️ 彩票类项目**仅供娱乐参考**：每期独立随机、历史规律不预示未来、中奖概率数学恒定不可优化，不构成任何购彩建议。
+
+---
+
+## 🚀 当前研究方向
+
+聚焦 **企业 AI 私有化落地 × 信创合规部署 × 垂直场景 Agent**，持续把前沿开源项目改造为可交付的企业能力。欢迎在 [Issues](https://github.com/TouKenAI/TouKenAI/issues) 交流，或邮件 [toukenai@163.com](mailto:toukenai@163.com) 商务洽谈。
 
 ---
 
@@ -157,20 +196,6 @@
 
 **投肯智能 · 把技术讲人话，把交付做到位**
 
-[官网 toukenai.com](https://www.toukenai.com/) · [知识库 toukenai.cn](https://www.toukenai.cn/)
+[官网 toukenai.com](https://www.toukenai.com/) · [知识库 toukenai.cn](https://www.toukenai.cn/) · [GitHub @TouKenAI](https://github.com/TouKenAI)
 
 </div>
-
-
-## 投肯智能开源矩阵
-
-> 重庆投肯智能科技有限公司 · 开源项目导航
-
-| 仓库 | 说明 |
-|------|------|
-| **[TouKenAI](https://github.com/TouKenAI/TouKenAI)** | 门面 / 公司形象展示页（Profile README）（本仓库） |
-| [ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | 双色球标准5步分析 + 优化引擎 |
-| [daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | 大乐透标准5步分析 + 优化引擎 |
-| [philosophy-methodology](https://github.com/TouKenAI/philosophy-methodology) | 哲学方法论体系（4层 + 实验记录） |
-| [ai-behavior-constraints](https://github.com/TouKenAI/ai-behavior-constraints) | AI 行为约束体系（7条硬约束） |
-| [tech-whitepaper](https://github.com/TouKenAI/tech-whitepaper) | 投肯智能技术白皮书（FDE / 信创 / AI落地） |
