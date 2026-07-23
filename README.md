@@ -12,7 +12,7 @@
 [![原创](https://img.shields.io/badge/知识库-144篇原创技术文-9cf)](https://www.toukenai.cn/)
 [![咨询](https://img.shields.io/badge/免费技术咨询-24h内回复-blueviolet)](mailto:toukenai@163.com)
 [![社媒](https://img.shields.io/badge/全平台-投肯AI小刚-ff2d55)](https://www.toukenai.com/)
-[![开源](https://img.shields.io/badge/GitHub-18个公开仓库-1f883d)](https://github.com/TouKenAI)
+[![开源](https://img.shields.io/badge/GitHub-23个公开仓库-1f883d)](https://github.com/TouKenAI)
 
 **传统 IT 服务 · 信创服务 · AI 落地服务 —— 三种能力，一站解决**
 
@@ -124,7 +124,7 @@
 ## 📦 开源矩阵（Open Source Portfolio）
 
 > 投肯智能在 GitHub 上的全部仓库 —— **自研方法论 + 前沿 AI 项目 fork 研究**，覆盖「企业 AI 落地 / 信创 / 多智能体 / AI 运维 / 内容生成」全链条。
-> 🔒 fork 项目均基于 MIT / Apache-2.0 / GPL-3.0 等开源许可证**合规引用**，仅用于技术研究与企业落地参考。
+> 🔒 fork 项目均基于 MIT / Apache-2.0 / GPL-3.0 / BSD 等开源许可证**合规引用**，仅用于技术研究与企业落地参考。Dify（修改版 Apache-2.0）、OpenWebUI（修改版 BSD-3）保留原厂商标与多租户 / 去品牌化限制条款，部署至客户侧前须复核其许可证要求。
 
 ### 🧠 自研 · 方法论与工具
 | 仓库 | 许可证 | 说明 |
@@ -159,6 +159,15 @@
 | [html-video](https://github.com/TouKenAI/html-video) | Apache-2.0 | 编程式视频生成（HTML → MP4，21 模板 + AI 配乐） |
 | [OpenMAIC](https://github.com/TouKenAI/OpenMAIC) | MIT | 开源多智能体互动课堂（一键沉浸式学习） |
 | [dive-into-llms](https://github.com/TouKenAI/dive-into-llms) | — | 《动手学大模型》系列编程实践教程（fork） |
+
+### 🛠️ AI 工具层 / 框架（fork 研究）
+| 仓库 | 许可证 | 说明 |
+|------|--------|------|
+| [langchain](https://github.com/TouKenAI/langchain) | MIT | LLM 应用开发事实标准框架（Agent / RAG / 工具调用基石） |
+| [llama_index](https://github.com/TouKenAI/llama_index) | MIT | 数据框架首选（RAG / 索引 / 查询引擎） |
+| [mem0](https://github.com/TouKenAI/mem0) | Apache-2.0 | AI Agent 记忆层（长期 / 工作记忆，让 Agent 跨会话记住用户） |
+| [dify](https://github.com/TouKenAI/dify) | 修改版 Apache-2.0 | 低代码 LLM 应用平台（可视化编排 + RAG + 多模型） |
+| [open-webui](https://github.com/TouKenAI/open-webui) | 修改版 BSD-3 | 自托管 AI 对话界面（私有化部署首选前端） |
 
 > ⚠️ 彩票类项目**仅供娱乐参考**：每期独立随机、历史规律不预示未来、中奖概率数学恒定不可优化，不构成任何购彩建议。
 
